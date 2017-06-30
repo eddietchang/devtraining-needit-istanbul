@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="New Section" section_id="b6740b9b4f633200819727118110c7b9" sys_domain="global" table="x_58872_needit_needit" version="3" view="Self_Service_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 22:21:09</sys_created_on>
+            <sys_id>b6740b9b4f633200819727118110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="1e04879b4f633200819727118110c770">b6740b9b4f633200819727118110c7b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 22:21:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 22:21:09</sys_created_on>
+            <sys_id>3a740b9b4f633200819727118110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="1e04879b4f633200819727118110c770">b6740b9b4f633200819727118110c7b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 22:21:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 22:21:09</sys_created_on>
+            <sys_id>ba740b9b4f633200819727118110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="1e04879b4f633200819727118110c770">b6740b9b4f633200819727118110c7b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 22:21:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_field_1</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 22:21:09</sys_created_on>
+            <sys_id>3e740b9b4f633200819727118110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="1e04879b4f633200819727118110c770">b6740b9b4f633200819727118110c7b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 22:21:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_field_2</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 22:21:09</sys_created_on>
+            <sys_id>be740b9b4f633200819727118110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="1e04879b4f633200819727118110c770">b6740b9b4f633200819727118110c7b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 22:21:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 22:21:08</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6740b9b4f633200819727118110c7b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_b6740b9b4f633200819727118110c7b9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 22:21:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service View" name="Self_Service_View">1e04879b4f633200819727118110c770</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
